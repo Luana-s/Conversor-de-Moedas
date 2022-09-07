@@ -1,2 +1,2 @@
 # Conversor-de-Moedas
-JavaScript
+Curso do Projeto Katie em Java Script
